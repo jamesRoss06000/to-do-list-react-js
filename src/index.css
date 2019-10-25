@@ -1,13 +1,72 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background: whitesmoke;
+  border: 2px solid grey;
+  /* height: 100%; */
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  padding: 30px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.App {
+margin-top: 20px;
+  padding: 5px;
+  width: 60%;
+  /* height: 100%; */
+  margin: auto;
+  border: 2px solid grey;
+  background: rgb(235, 236, 161);
+}
+
+body h3 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.inputAndBtn {
+  display: flex;
+  justify-content: space-between;
+  padding: none;
+}
+
+.list-group-item {
+  padding: 0;
+  font-size: 16px;
+}
+
+.list-group-item p{
+  padding-left: 15px;
+  padding-top: 10px;
+}
+
+.add-btn {
+  background: lightblue;
+  width: 40px;
+  height: 40px;
+}
+
+.app-title {
+  text-align: center;
+  color: lightblue;
+  font-size: 70px;
+}
+
+.container {
+  border: 5px solid rgb(0, 0, 0);
+  border-radius: 25px;
+}
+
+@media (max-width: 1030px){
+  .App{
+    width: 70%;
+    position: relative;
+    margin: auto;
+  }
+}
+
+@media (max-width: 450px){
+  .App{
+    width: 95%;
+    position: relative;
+    margin: auto;
+  }
 }
