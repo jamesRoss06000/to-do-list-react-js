@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jamesRoss06000/to-do-list-react-js.git/static/css/main.e8cdf747.chunk.css",
+    "main.js": "/jamesRoss06000/to-do-list-react-js.git/static/js/main.f1ab4bcd.chunk.js",
+    "main.js.map": "/jamesRoss06000/to-do-list-react-js.git/static/js/main.f1ab4bcd.chunk.js.map",
+    "runtime-main.js": "/jamesRoss06000/to-do-list-react-js.git/static/js/runtime-main.66102f8b.js",
+    "runtime-main.js.map": "/jamesRoss06000/to-do-list-react-js.git/static/js/runtime-main.66102f8b.js.map",
+    "static/js/2.04e81f30.chunk.js": "/jamesRoss06000/to-do-list-react-js.git/static/js/2.04e81f30.chunk.js",
+    "static/js/2.04e81f30.chunk.js.map": "/jamesRoss06000/to-do-list-react-js.git/static/js/2.04e81f30.chunk.js.map",
+    "index.html": "/jamesRoss06000/to-do-list-react-js.git/index.html",
+    "precache-manifest.98cb44b6b1b6504800cacd4075703368.js": "/jamesRoss06000/to-do-list-react-js.git/precache-manifest.98cb44b6b1b6504800cacd4075703368.js",
+    "service-worker.js": "/jamesRoss06000/to-do-list-react-js.git/service-worker.js",
+    "static/css/main.e8cdf747.chunk.css.map": "/jamesRoss06000/to-do-list-react-js.git/static/css/main.e8cdf747.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66102f8b.js",
+    "static/js/2.04e81f30.chunk.js",
+    "static/css/main.e8cdf747.chunk.css",
+    "static/js/main.f1ab4bcd.chunk.js"
+  ]
+}
